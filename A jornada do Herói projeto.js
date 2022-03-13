@@ -122,7 +122,8 @@ for (let j = 0; j < 5; j++) {
   } else {
     console.log("\nO Herói conseguiu derrotar o Rei demónio de maneira mas perfeita possível, sem que ele causasse quaisquer danos a população!, seu nome e feitos ficarão na história e serão lembrados por gerações!\n");
   }
-  //FIM
+  //link GITHUB:https://github.com/qualose123/Blue-edtech
+  //ALUNO: Raphael Johny de lima tito 
 
 
 
